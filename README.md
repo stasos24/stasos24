@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @stasos24
+- 👀 I’m interested in fuzzing, static code analysis
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Reported Bugs:
+Redundant code:
+https://github.com/sysown/proxysql/issues/3740
