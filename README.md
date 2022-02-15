@@ -5,5 +5,6 @@
 - 📫 How to reach me ...
 
 Reported Bugs:
+Memory Leak + Use-After-Free: https://github.com/syslog-ng/syslog-ng/issues/3917
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
