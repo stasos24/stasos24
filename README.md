@@ -7,6 +7,7 @@
 Reported Bugs:
 
 Memory Leak + Use-After-Free: https://github.com/syslog-ng/syslog-ng/issues/3917
+Memory Leak + Return of uninitialized value
 
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
