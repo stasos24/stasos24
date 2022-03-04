@@ -7,7 +7,8 @@
 Reported Bugs:
 
 Memory Leak + Use-After-Free: https://github.com/syslog-ng/syslog-ng/issues/3917
-Memory Leak + Return of uninitialized value
+
+Memory Leak + Return of uninitialized value: https://github.com/LedgerHQ/lib-ledger-core/issues/859
 
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
