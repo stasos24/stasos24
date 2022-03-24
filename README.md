@@ -12,5 +12,7 @@ Memory Leak + Return of uninitialized value: https://github.com/LedgerHQ/lib-led
 
 Buffer Underflow: https://www.sqlite.org/forum/forumpost/06115a229d
 
+Memory Leak: https://github.com/x42/liboauth/issues/14
+
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
