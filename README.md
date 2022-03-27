@@ -14,5 +14,9 @@ Buffer Underflow: https://www.sqlite.org/forum/forumpost/06115a229d
 
 Memory Leak: https://github.com/x42/liboauth/issues/14
 
+Memory Leak: https://github.com/libxls/libxls/issues/108
+
+Use after free: https://issues.apache.org/jira/browse/AXIS2C-1705
+
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
