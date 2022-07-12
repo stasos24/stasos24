@@ -20,3 +20,6 @@ Use after free: https://issues.apache.org/jira/browse/AXIS2C-1705
 
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
+
+Bad-free (ICU/V8/NodeJS):
+https://unicode-org.atlassian.net/browse/ICU-22066
