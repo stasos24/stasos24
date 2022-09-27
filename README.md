@@ -23,3 +23,9 @@ https://github.com/sysown/proxysql/issues/3740
 
 Bad-free (ICU/V8/NodeJS):
 https://unicode-org.atlassian.net/browse/ICU-22066
+
+Vector (Rust):
+https://github.com/vectordotdev/vector/issues/13533
+https://github.com/vectordotdev/vector/issues/13532
+https://github.com/vectordotdev/vector/issues/13531
+https://github.com/vectordotdev/vector/pull/14479
