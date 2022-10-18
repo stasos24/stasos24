@@ -10,10 +10,11 @@ Use after free:
 https://issues.apache.org/jira/browse/AXIS2C-1705 
 https://github.com/syslog-ng/syslog-ng/issues/3917
 
+Null-pointer-dereference:
+https://github.com/envoyproxy/envoy/issues/23520
+
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
-
-Buffer Underflow: https://www.sqlite.org/forum/forumpost/06115a229d
 
 Bad-free (ICU/V8/NodeJS):
 https://unicode-org.atlassian.net/browse/ICU-22066
