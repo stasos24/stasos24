@@ -16,8 +16,9 @@ https://github.com/envoyproxy/envoy/issues/23520
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
 
-Bad-free (ICU/V8/NodeJS):
+ICU/V8/NodeJS:
 https://unicode-org.atlassian.net/browse/ICU-22066
+https://github.com/nodejs/node/issues/45297
 
 Vector (Rust):
 https://github.com/vectordotdev/vector/issues/13533
