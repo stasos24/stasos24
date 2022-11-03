@@ -19,6 +19,7 @@ https://github.com/sysown/proxysql/issues/3740
 ICU/V8/NodeJS:
 https://unicode-org.atlassian.net/browse/ICU-22066
 https://github.com/nodejs/node/issues/45297
+https://github.com/nodejs/node/issues/45283
 
 Vector (Rust):
 https://github.com/vectordotdev/vector/issues/13533
