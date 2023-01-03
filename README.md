@@ -25,5 +25,8 @@ https://github.com/vectordotdev/vector/issues/13532
 https://github.com/vectordotdev/vector/issues/13531
 https://github.com/vectordotdev/vector/pull/14479
 
+GOLang:
+https://github.com/go-openapi/validate/issues/150
+
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
