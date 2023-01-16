@@ -18,12 +18,11 @@ https://github.com/envoyproxy/envoy/issues/23562
 
 ICU/V8/NodeJS:
 https://unicode-org.atlassian.net/browse/ICU-22066
-Buffer Overflow https://github.com/nodejs/node/issues/45297
-Null-pointer-dereferencehttps://github.com/nodejs/node/issues/45283
+https://github.com/nodejs/node/issues/45297
+https://github.com/nodejs/node/issues/45283
 
 Wazuh:
-
-Heap-Buffer-Overflow https://github.com/wazuh/wazuh/issues/15861 
+https://github.com/wazuh/wazuh/issues/15861 
 
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
