@@ -26,7 +26,7 @@ https://github.com/wazuh/wazuh/issues/15861
 
 Redundant code:
 https://github.com/sysown/proxysql/issues/3740
-
+***
 **RUST**
 
 Vector :
@@ -34,7 +34,7 @@ https://github.com/vectordotdev/vector/issues/13533
 https://github.com/vectordotdev/vector/issues/13532
 https://github.com/vectordotdev/vector/issues/13531
 https://github.com/vectordotdev/vector/pull/14479
-
+***
 **GoLang**
 
 Division by zero:
