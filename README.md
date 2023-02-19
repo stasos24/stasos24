@@ -21,6 +21,9 @@ https://unicode-org.atlassian.net/browse/ICU-22066
 https://github.com/nodejs/node/issues/45297
 https://github.com/nodejs/node/issues/45283
 
+CPython3:
+https://github.com/python/cpython/issues/101180
+
 Wazuh:
 https://github.com/wazuh/wazuh/issues/15861 
 
