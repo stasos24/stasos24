@@ -43,4 +43,7 @@ https://github.com/vectordotdev/vector/pull/14479
 Division by zero:
 https://github.com/go-openapi/validate/issues/150
 
+Handler leak:
+https://github.com/onsi/ginkgo/issues/1308
+
 
