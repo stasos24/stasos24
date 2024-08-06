@@ -25,7 +25,9 @@ CPython3:
 https://github.com/python/cpython/issues/101180
 
 Busybox:
+
 awk - https://bugs.busybox.net/show_bug.cgi?id=16144
+
 volume_id - https://bugs.busybox.net/show_bug.cgi?id=16129
 
 Wazuh:
