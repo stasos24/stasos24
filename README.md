@@ -31,6 +31,8 @@ awk - https://bugs.busybox.net/show_bug.cgi?id=16144
 
 volume_id - https://bugs.busybox.net/show_bug.cgi?id=16129
 
+getopt - https://bugs.busybox.net/show_bug.cgi?id=16159
+
 ash - https://bugs.busybox.net/show_bug.cgi?id=16147 https://bugs.busybox.net/show_bug.cgi?id=16156
 
 reformime - https://bugs.busybox.net/show_bug.cgi?id=16153
