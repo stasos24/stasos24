@@ -30,7 +30,12 @@ awk - https://bugs.busybox.net/show_bug.cgi?id=16144
 
 volume_id - https://bugs.busybox.net/show_bug.cgi?id=16129
 
-ash - https://bugs.busybox.net/show_bug.cgi?id=16147
+ash - https://bugs.busybox.net/show_bug.cgi?id=16147 https://bugs.busybox.net/show_bug.cgi?id=16156
+
+reformime - https://bugs.busybox.net/show_bug.cgi?id=16153
+
+popmaildir - https://bugs.busybox.net/show_bug.cgi?id=16150
+
 
 Wazuh:
 https://github.com/wazuh/wazuh/issues/15861 
