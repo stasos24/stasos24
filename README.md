@@ -25,8 +25,10 @@ CPython3:
 https://github.com/python/cpython/issues/101180
 
 PostgresQL:
+https://www.postgresql.org/message-id/18701-806fe12aba430a7d%40postgresql.org
 https://www.postgresql.org/message-id/18680-398f1f32373e35de%40postgresql.org
 https://www.postgresql.org/message-id/18681-fd25f2e89b437ccd%40postgresql.org
+
 
 Busybox:
 
