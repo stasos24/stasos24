@@ -67,5 +67,7 @@ https://github.com/go-openapi/validate/issues/150
 
 Handler leak:
 https://github.com/onsi/ginkgo/issues/1308
+https://github.com/kubernetes/kube-openapi/pull/522
+
 
 
