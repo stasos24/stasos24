@@ -2,9 +2,7 @@
 
 ## 🔹 C/C++
 
-_(No reported issues at this time)_
 
----
 
 ## 🌿 Node.js  
 - 🔗 [#45297 - GitHub Issue](https://github.com/nodejs/node/issues/45297)  
