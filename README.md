@@ -1,6 +1,6 @@
 # 🛠️ Reported Vulnerabilities & Bugs
 
-## 🔹 C/C++
+# 🔹 C/C++
 
 
 
