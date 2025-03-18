@@ -1,6 +1,6 @@
 Reported Bugs:
 
-**C/C++**
+# C/C++
 
 ## NodeJS:
 https://github.com/nodejs/node/issues/45297
