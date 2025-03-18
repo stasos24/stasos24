@@ -1,4 +1,4 @@
-Reported Bugs:
+# Reported Vulnerabilities/Bugs:
 
 # C/C++
 
