@@ -100,6 +100,12 @@
 
 ---
 
+## 🌐 Curl
+
+- [Use-after-free](https://github.com/curl/curl/issues/18352)
+
+---
+
 ## 🧠 Memory Leak  
 - 🔗 [Liboauth #14](https://github.com/x42/liboauth/issues/14)  
 - 🔗 [Libxls #108](https://github.com/libxls/libxls/issues/108)  
